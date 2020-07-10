@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
-ruby '2.2.2'
+ruby '2.7.1'
 
-gem 'minitest', '~> 5.10'
-gem 'minitest-reporters', '~> 1.1'
+gem 'minitest'
+gem 'minitest-reporters'
 gem 'stamp'
 gem 'rake'
